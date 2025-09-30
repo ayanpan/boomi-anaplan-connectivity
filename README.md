@@ -32,6 +32,7 @@ How to connect Anaplan Workspace with Boomi using Client Certificate
 
 <img width="562" height="467" alt="image" src="https://github.com/user-attachments/assets/597d4828-8bbc-4c08-87f8-9f69604d5d5e" />
 
+
 <img width="125" height="97" alt="image" src="https://github.com/user-attachments/assets/8efd145e-9806-4f0d-83b8-99ff8e919d56" />
 
 2. Select Anaplan Connector and set the Action as "Export".
